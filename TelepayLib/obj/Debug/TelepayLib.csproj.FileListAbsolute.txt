@@ -1,0 +1,4 @@
+D:\Projects\TelepayLibrary\TelepayLib\bin\Debug\TelepayLib.dll
+D:\Projects\TelepayLibrary\TelepayLib\bin\Debug\TelepayLib.pdb
+D:\Projects\TelepayLibrary\TelepayLib\obj\Debug\TelepayLib.dll
+D:\Projects\TelepayLibrary\TelepayLib\obj\Debug\TelepayLib.pdb

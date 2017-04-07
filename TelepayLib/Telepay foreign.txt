@@ -1,0 +1,40 @@
+AH200TBIU0122000008                   04BETFOR0011111111111           2635      
+0122          VERSJON002          664438      00000000000000000000000000        
+                                                                                
+                                                                                
+AH200TBIU0122000009                   04BETFOR0111111111111976005021192636      
+100823TEST TEST                     DKKDKKBENOUR                               0
+0000000      00000000         00000000                00000000000000000000000000
+000000     000000        00000000000000000000000                                
+AH200TBIU0122000010                   04BETFOR0211111111111976005021192637      
+DABADKKK   DANSKE BANK                                                          
+                                                                                
+  DK                                                                            
+AH200TBIU0122000011                   04BETFOR0311111111111976005021192638      
+DK8530003001917307                 DANSK TESTINDUSTRI                  NJALSGADE
+32                        2300 KØBENHAVN S                   DANMARK            
+               DK                                                               
+AH200TBIU0122000012                   04BETFOR0411111111111976005021192639      
+INVOICE NUMBER 456789              TEST TEST TEST                     0000000125
+00000D14    KJØP AV TESTMATERIELL                                         000000
+ 000000                                              000                        
+AH200TBIU0823000013                   04BETFOR0111111111111976005021192640      
+100823TEST TEST                        USDBENOUR                               0
+0000000      00000000         00000000                00000000000000000000000000
+000000     000000        00000000000000000000000                                
+AH200TBIU0823000014                   04BETFOR0211111111111976005021192641      
+BOFAUS3N   BANK OF AMERICA, N.A.              100, 33RD STREET WEST             
+ NEW YORK                           USA                                         
+  USFW123456789                                                                 
+AH200TBIU0823000015                   04BETFOR0311111111111976005021192642      
+112233445                          NAME                               ADDRESS   
+                         ADDRESS                            ADDRESS             
+               US                                                               
+AH200TBIU0823000016                   04BETFOR0411111111111976005021192643      
+INVOICE NUMBER 0109784             TEST 1;26190;S;4070                0000000004
+70000D14    EKSPORT/IMPORT AV ANDRE VARER                                       
+ 000000                                              000                        
+AH200TBIU0122000017                   04BETFOR9911111111111           2644      
+0122                   00010                                                    
+                                                                                
+                                                        Telepay Lib v0.1        
